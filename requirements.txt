@@ -1,0 +1,16 @@
+torch>=1.9.0
+torchvision>=0.10.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+Pillow>=8.3.0
+kornia>=0.6.0
+piqa>=0.1.0
+tqdm>=4.62.0
+
+# Optional dependencies
+# For the text metric:
+# mmengine
+# mmcv==2.0.0rc4
+# mmdet==3.1.0
+# mmocr>=1.0.0
+
